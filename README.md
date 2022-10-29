@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladBaciu
 - 👀 I’m interested in Embedded Systems, Machine Learning and Security.
-- 🌱 I’m currently focusing on machine learning in photoplethymsography and embedded systems security.
+- 🌱 I’m currently focusing on applying machine learning in photoplethymsography and embedded systems security.
 - 📫 How to reach me baciuvladeusebiu@gmail.com or vlad-eusebiu.baciu@vub.be
 
 <!---
